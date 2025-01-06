@@ -1,5 +1,5 @@
 function App() {
-  return <>Starterdfvdfdfvdf</>;
+  return <h1>STARTER</h1>;
 }
 
 export default App;
