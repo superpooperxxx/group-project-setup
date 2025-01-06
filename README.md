@@ -51,7 +51,7 @@ npm create vite@latest . -- --template react-ts
 
 Once you open the project in your code editor, run `npm install` to install the dependencies, and then `npm run dev` to start the development server. Open [http://localhost:5173](http://localhost:5173/) in your browser, and you should see the boilerplate page created by the Vite team.
 
-![image.png](https://prnt.sc/Ab41XI6BXNNH)
+<img src="https://prnt.sc/Ab41XI6BXNNH"/>
 
 Let’s take a moment to explore what we have after this small step. Quite a lot!
 
