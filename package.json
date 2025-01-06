@@ -35,6 +35,6 @@
     "vite": "^6.0.5"
   },
   "lint-staged": {
-    "*.{ts,tsx}": "npm run fix-style"
+    "*": "npm run fix-style"
   }
 }
